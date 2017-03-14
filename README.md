@@ -2,6 +2,7 @@
 
 **Technical Architecture Diagram**
 
+![alt text](https://raw.githubusercontent.com/PalashBansal96/IBM_Watson_Challenge/master/diag.png "  ")
 
 
 **Intents in CSV:(also attached along)**
