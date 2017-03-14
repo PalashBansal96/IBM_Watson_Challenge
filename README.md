@@ -6,55 +6,34 @@
 
 **Intents in CSV:(also attached along)**
 
-What is my balance?, balance\_enquiry
+```
+What is my balance?, balance_enquiry
+How much money do I have in my account?. balance_enquiry
+Whats my account balance?, balance_enquiry
+Account balance please., balance_enquiry
+Send my account details to my email., account_statement
+Send my statement for the last one year to my email account., account_statement
+email me my statement for the last month., account_statement
+I want to transfer funds to another account., fund_transfer
+please transfer 5000 rs to my friends account., fund_transfer
+how do i transfer money to another account., fund_transfer
+What is the process to transfer money to another bank account?., fund_transfer
+I want to open an FD., fd_opening
+Whats the process to open an FD?, fd_opening
+Can I open an FD from here?, fd_opening
+How do I open an FD account?, fd_opening
+I want to topup my phone., mobile_recharge
+Please recharge my phone balance, mobile_recharge
+My phone balance is low I want to add money, mobile_recharge
+Make phone recharge of Rs 100, mobile_recharge
+Can I add money to my phone from here?, mobile_recharge
+I want to ask for a loan., byom_lones
+What is the procedure to get a loan from bank?, byom_loans
+What is be your own master loans, byom_loans
+Guide me through getting a loan, byom_loans
+I am requesting for a loan please process it, byom_loans
 
-How much money do I have in my account?. balance\_enquiry
-
-Whats my account balance?, balance\_enquiry
-
-Account balance please., balance\_enquiry
-
-Send my account details to my email., account\_statement
-
-Send my statement for the last one year to my email account., account\_statement
-
-email me my statement for the last month., account\_statement
-
-I want to transfer funds to another account., fund\_transfer
-
-please transfer 5000 rs to my friends account., fund\_transfer
-
-how do i transfer money to another account., fund\_transfer
-
-What is the process to transfer money to another bank account?., fund\_transfer
-
-I want to open an FD., fd\_opening
-
-Whats the process to open an FD?, fd\_opening
-
-Can I open an FD from here?, fd\_opening
-
-How do I open an FD account?, fd\_opening
-
-I want to topup my phone., mobile\_recharge
-
-Please recharge my phone balance, mobile\_recharge
-
-My phone balance is low I want to add money, mobile\_recharge
-
-Make phone recharge of Rs 100, mobile\_recharge
-
-Can I add money to my phone from here?, mobile\_recharge
-
-I want to ask for a loan., byom\_lones
-
-What is the procedure to get a loan from bank?, byom\_loans
-
-What is be your own master loans, byom\_loans
-
-Guide me through getting a loan, byom\_loans
-
-I am requesting for a loan please process it, byom\_loans
+```
 
 **Languages:**
 
